@@ -7,20 +7,24 @@ kanban-plugin: board
 ## test1
 
 - [ ] 1
-- [ ] 2
-- [ ] 3
 
 
 ## test2
 
 - [ ] 4
+- [ ] 2
 - [ ] [th]
+
+
+## test3
+
+- [ ] 3
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
