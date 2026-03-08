@@ -25,10 +25,14 @@
             "id": "164ce31f3fd24e76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ro/Alex/alex002.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "alex002"
             }
           }
         ],
@@ -205,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da9dc004ef0e338",
+  "active": "164ce31f3fd24e76",
   "lastOpenFiles": [
+    "ro/Alex/alex002.md",
+    "ro/Alex",
     "Main/hello.md",
     "Main/ffwwq.md",
     "1.md",
