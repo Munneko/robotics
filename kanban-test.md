@@ -14,6 +14,7 @@ kanban-plugin: board
 ## test2
 
 - [ ] 4
+- [ ] [th]
 
 
 
