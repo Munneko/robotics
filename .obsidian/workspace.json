@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/ffwwq.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ffwwq"
+              "title": "Без названия"
             }
           }
         ],
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,16 +209,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da9dc004ef0e338",
+  "active": "164ce31f3fd24e76",
   "lastOpenFiles": [
+    "1.md",
+    "ro/111.md",
+    "Без названия.md",
     "Main/hello.md",
     "Main/ffwwq.md",
-    "1.md",
-    "Без названия.md",
-    "Main/yoooooooooooooo.md",
-    "Main/q.md",
     "Main/a.md",
+    "Main/yoooooooooooooo.md",
     "ro/pw.md",
+    "Main/q.md",
     "ro",
     "Добро пожаловать.md",
     "Main"
